@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse
+	xmlns="http://in28min.udemy.com/delegate" 
+	xsi:schemaLocation="http://in28min.udemy.com/delegate course-details.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CourseDetails>
+		<id>123</id>
+		<name>Spring</name>
+		<description>Sping 5.0 details</description>
+	</CourseDetails>
+</GetCourseDetailsResponse>
